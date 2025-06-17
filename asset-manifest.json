@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pro4-react/static/css/main.689cd843.css",
+    "main.js": "/pro4-react/static/js/main.7237a4d3.js",
+    "static/js/453.f00650eb.chunk.js": "/pro4-react/static/js/453.f00650eb.chunk.js",
+    "static/media/golfback.jpg": "/pro4-react/static/media/golfback.24d681007e9aec4e50ff.jpg",
+    "index.html": "/pro4-react/index.html",
+    "main.689cd843.css.map": "/pro4-react/static/css/main.689cd843.css.map",
+    "main.7237a4d3.js.map": "/pro4-react/static/js/main.7237a4d3.js.map",
+    "453.f00650eb.chunk.js.map": "/pro4-react/static/js/453.f00650eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689cd843.css",
+    "static/js/main.7237a4d3.js"
+  ]
+}
